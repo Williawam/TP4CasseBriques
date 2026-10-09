@@ -1,5 +1,5 @@
 # TP4CasseBriques
 Jeu du casse brique
-Implémentation de la pile :
-Implémentation de la file :
+Implémentation de la pile : Vies, score, niveau ?
+Implémentation de la file : Pouvoirs ?
 
